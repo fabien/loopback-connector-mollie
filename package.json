@@ -10,6 +10,7 @@
     "lodash": "^3.5.0",
     "loopback-connector": "^2.3.0",
     "request-as-curl": "^0.1.0",
-    "superagent": "^1.4.0"
+    "superagent": "^1.7.2",
+    "superagent-mock": "^1.10.0"
   }
 }
