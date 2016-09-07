@@ -1,7 +1,6 @@
 {
-  "name": "loopback-connector-mollie",
+  "name": "@atelierfabien/loopback-connector-mollie",
   "version": "0.0.1",
-  "private": true,
   "scripts": {},
   "main": "index.js",
   "dependencies": {
