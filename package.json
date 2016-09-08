@@ -1,5 +1,6 @@
 {
   "name": "loopback-connector-mollie",
+  "description": "Loopback Connector for Mollie Payments API",
   "version": "0.0.1",
   "scripts": {},
   "main": "index.js",
